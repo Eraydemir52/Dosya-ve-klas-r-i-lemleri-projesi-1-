@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Dosya_ve_klasör_işlemleri_projesi_1__youtube_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

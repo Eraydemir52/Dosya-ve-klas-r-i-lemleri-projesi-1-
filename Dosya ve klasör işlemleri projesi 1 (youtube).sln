@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dosya ve klasör işlemleri projesi 1 (youtube)", "Dosya ve klasör işlemleri projesi 1 (youtube)\Dosya ve klasör işlemleri projesi 1 (youtube).csproj", "{D5FBD1A8-C87D-413D-9C6C-C9EAFED9EE5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5FBD1A8-C87D-413D-9C6C-C9EAFED9EE5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5FBD1A8-C87D-413D-9C6C-C9EAFED9EE5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5FBD1A8-C87D-413D-9C6C-C9EAFED9EE5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5FBD1A8-C87D-413D-9C6C-C9EAFED9EE5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41429A6A-6254-4C33-9004-AF8EA3141633}
+	EndGlobalSection
+EndGlobal
